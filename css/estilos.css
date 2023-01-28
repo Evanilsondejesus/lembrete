@@ -1,0 +1,142 @@
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+*{
+margin: 0;
+padding: 0;
+
+}
+
+
+#titulo{
+text-align: center;
+border: 2px solid grey;
+font-family: 'Dancing Script', cursive;
+}
+
+
+
+
+
+ol{
+margin-left: 10px;
+ 
+
+border-radius: 20px;
+border: 1px solid black;
+background-color: rgb(205, 199, 199);
+
+margin-right: 10px;
+
+
+}
+
+
+
+
+b{
+right: 10px;
+margin-left: 90%;
+}
+ol div{
+border: 1px solid black;
+font-family: 'Dancing Script', cursive;
+
+
+margin-top: 2px;
+margin: auto auto 3px auto;
+width: 300px;
+height: 60px;
+
+
+}
+
+
+ol div{
+text-align: center;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+#digite_notas{
+    margin-top: 2px;
+width: 100%;
+
+
+border-top: 1px solid transparent;
+border-bottom: 5px solid brown;
+
+}
+#menu_principal{
+
+display: flex;
+
+}
+#cor_principal{
+background-color: white;
+width: 100vw;
+height: calc(100% + 100px);
+margin-top: 15px;
+
+}
+
+
+#cabeca{
+background-color: lightgrey;
+box-shadow: 10px 4px 2px green;
+
+
+
+}
+ 
+
+
+#menu_principal button{
+
+
+color: black;
+size: 10px;
+font-style: italic;
+background-color: transparent;
+
+
+}
+
+#excluir_tudo{
+background-color: black;
+border: none;
+color: white;
+
+}
+
+
+#excluir_tudo:hover{
+background-color: white;
+border: 3px solid black;
+color: black;
+cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
